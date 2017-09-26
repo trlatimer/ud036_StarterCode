@@ -19,9 +19,7 @@ american_sniper = media.Movie("American Sniper",
                               "four tours of duty in Iraq. However, when he"
                               " finally returns home, he finds that he "
                               "cannot leave the war behind.",
-                              "http://t2.gstatic.com/images?q=tbn:ANd9GcSCE"
-                              "JMtX2_SB-ZlvYpabgPb6dwI_bVSY-eVap6aSSSfFq5L"
-                              "dmxa",
+                              "http://t2.gstatic.com/images?q=tbn:ANd9GcSCEJMtX2_SB-ZlvYpabgPb6dwI_bVSY-eVap6aSSSfFq5Ldmxa",  # NOQA
                               "https://www.youtube.com/watch?v=99k3u9ay1gs"
                               )
 # Dunkirk Movie: movie title, storyline, poster image, and trailer
@@ -34,8 +32,7 @@ dunkirk = media.Movie("Dunkirk",
                       " vessel that could be found. At the end of this "
                       "heroic mission, 330,000 French, British, Belgian and"
                       " Dutch soldiers were safely evacuated.",
-                      "http://t3.gstatic.com/images?q=tbn:ANd9GcSi8VmNoMYm7"
-                      "7iHAsAdsZhABzm_idRwgsU-r3njA4F6HY3-xceC",
+                      "http://t3.gstatic.com/images?q=tbn:ANd9GcSi8VmNoMYm77iHAsAdsZhABzm_idRwgsU-r3njA4F6HY3-xceC",  # NOQA
                       "https://www.youtube.com/watch?v=T7O7BtBnsG4"
                       )
 # Happy Gilmore Movie: movie title, storyline, poster image, and trailer
@@ -52,8 +49,7 @@ happy_gilmore = media.Movie("Happy Gilmore",
                             "attitude, Happy becomes an unlikely golf hero"
                             " -- much to the chagrin of the well-mannered "
                             "golf professionals.",
-                            "http://t1.gstatic.com/images?q=tbn:ANd9GcSnne"
-                            "u4p89acvEbINL-XBA1caLXkzCVwvtXej1vqaiyBBsHnuh0",
+                            "http://t1.gstatic.com/images?q=tbn:ANd9GcSnneu4p89acvEbINL-XBA1caLXkzCVwvtXej1vqaiyBBsHnuh0",  # NOQA
                             "https://www.youtube.com/watch?v=y1emDAYCfVQ"
                             )
 # Split Movie: movie title, storyline, poster image, and trailer
@@ -67,8 +63,7 @@ split = media.Movie("Split",
                     "for survival among all of those contained within him "
                     "-- as well as everyone around him -- as the walls "
                     "between his compartments shatter.",
-                    "http://t0.gstatic.com/images?q=tbn:ANd9GcQxZKPueKzPFNE"
-                    "c1Un4x2TecYop4yrTVArVtfgrNzktMqbfehfv",
+                    "http://t0.gstatic.com/images?q=tbn:ANd9GcQxZKPueKzPFNEc1Un4x2TecYop4yrTVArVtfgrNzktMqbfehfv",  # NOQA
                     "https://www.youtube.com/watch?v=84TouqfIsiI"
                     )
 # Ladder 49 Movie: movie title, storyline, poster image, and trailer
@@ -83,8 +78,7 @@ ladder_49 = media.Movie("Ladder 49",
                         "force, meeting the woman (Jacinda Barrett) who would "
                         "become his wife and saving a small girl from a "
                         "burning building.",
-                        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9"
-                        "GcT9eaqqDBeSL7SVHBA9gz8WSfSnWxwyKCfTOeoAn2Hk8seiB4mr",
+                        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT9eaqqDBeSL7SVHBA9gz8WSfSnWxwyKCfTOeoAn2Hk8seiB4mr",  # NOQA
                         "https://www.youtube.com/watch?v=jpU7gzT6CdM"
                         )
 # Lone Survivor Movie: movie title, storyline, poster image, and trailer
@@ -100,8 +94,7 @@ lone_survivor = media.Movie("Lone Survivor",
                             " invaders, and a terrible battle ensues, in which"
                             " the SEALs find themselves hopelessly outnumbered"
                             "and outgunned.",
-                            "http://t1.gstatic.com/images?q=tbn:ANd9GcScjXYp5"
-                            "MbyDO78-AWMYL2_DYlwHoYQzrt3-DIfkxN0OQQpW0mI",
+                            "http://t1.gstatic.com/images?q=tbn:ANd9GcScjXYp5MbyDO78-AWMYL2_DYlwHoYQzrt3-DIfkxN0OQQpW0mI",  # NOQA
                             "https://www.youtube.com/watch?v=yoLFk4JK_RM"
                             )
 # The Accountant Movie: movie title, storyline, poster image, and trailer
@@ -117,9 +110,7 @@ the_accountant = media.Movie("The Accountant",
                              "Wolffgets closer to the truth about a "
                              "discrepancy that involves millions of dollars, "
                              "the body count starts to rise.",
-                             "http://t0.gstatic.com/images?q=tbn:ANd9GcSTfMm"
-                             "vT_-0ELHJlI6OrXOoPCZqV6hlty_"
-                             "A6mvaABzaJRkoBgzW",
+                             "http://t0.gstatic.com/images?q=tbn:ANd9GcSTfMmvT_-0ELHJlI6OrXOoPCZqV6hlty_A6mvaABzaJRkoBgzW",  # NOQA
                              "https://www.youtube.com/watch?v=DBfsgcswlYQ"
                              )
 # The Revenant Movie: movie title, storyline, poster image, and trailer
@@ -135,8 +126,7 @@ the_revenant = media.Movie("The Revenant",
                            "vengeance, the legendary fur trapper treks through"
                            " the snowy terrain to track down the man who "
                            "betrayed him.",
-                           "http://t1.gstatic.com/images?q=tbn:ANd9GcS5yuCS"
-                           "ZqK5Hha5lElqZr2SCYVY-sYycKZ8PJ8POfNQkOmSuo5B",
+                           "http://t1.gstatic.com/images?q=tbn:ANd9GcS5yuCSZqK5Hha5lElqZr2SCYVY-sYycKZ8PJ8POfNQkOmSuo5B", # NOQA
                            "https://www.youtube.com/watch?v=LoebZZ8K5N0"
                            )
 # 13 Hours Movie: movie title, storyline, poster image, and trailer
@@ -152,8 +142,7 @@ thirteen_hours = media.Movie("13 Hours",
                              "in the city. As the assault rages on, the six "
                              "men engage the combatants in a fierce firefight"
                              " to save the lives of the remaining Americans.",
-                             "https://images-na.ssl-images-amazon.com/images"
-                             "/I/91zhWpXHVzL._SL1500_.jpg",
+                             "https://images-na.ssl-images-amazon.com/images/I/91zhWpXHVzL._SL1500_.jpg",  # NOQA
                              "https://www.youtube.com/watch?v=4CJBuUwd0Os"
                              )
 # John Wick Movie: movie title, storyline, poster image, and trailer
@@ -168,9 +157,7 @@ john_wick = media.Movie("John Wick",
                         " within and seeks vengeance. Meanwhile, Iosef's "
                         "father (Michael Nyqvist) -- John's former colleague"
                         " -- puts a huge bounty on John's head.",
-                        "http://is2.mzstatic.com/image/thumb/Video2/v4/3b/"
-                        "ea/a4/3beaa4a6-611c-"
-                        "cbc2-6718-fd2578abf363/source/1200x630bb.jpg",
+                        "http://is2.mzstatic.com/image/thumb/Video2/v4/3b/ea/a4/3beaa4a6-611c-cbc2-6718-fd2578abf363/source/1200x630bb.jpg",  # NOQA
                         "https://www.youtube.com/watch?v=2AUmvWm5ZDQ"
                         )
 # Set the movies that will be added to the media file
