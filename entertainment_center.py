@@ -46,3 +46,5 @@ john_wick = media.Movie("John Wick",
                         "https://www.youtube.com/watch?v=2AUmvWm5ZDQ")
 
 movies = [american_sniper, dunkirk, happy_gilmore, split, ladder_49, lone_survivor, the_accountant, the_revenant, thirteen_hours, john_wick]
+
+fresh_tomatoes.open_movies_page(movies)
