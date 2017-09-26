@@ -26,7 +26,7 @@ ladder_49 = media.Movie("Ladder 49",
                         "https://www.youtube.com/watch?v=jpU7gzT6CdM")
 lone_survivor = media.Movie("Lone Survivor",
                             "In 2005 Afghanistan, Navy SEALs Marcus Luttrell (Mark Wahlberg), Michael Murphy (Taylor Kitsch), Danny Dietz (Emile Hirsch) and Matthew "Axe" Axelson (Ben Foster) deploy on a mission of surveillance and to take out Taliban leader Ahmad Shah. Though spotted by goatherds, Luttrell and his team decide not to kill them. But one of the Afghans alerts a group of Taliban fighters to the invaders, and a terrible battle ensues, in which the SEALs find themselves hopelessly outnumbered and outgunned.",
-                            "http://t1.gstatic.com/images?q=tbn:ANd9GcScjXYp5MbyDO78-AWMYL2_DYlwHoYQzrt3-DIfkxN0OQQpW0mI"
+                            "http://t1.gstatic.com/images?q=tbn:ANd9GcScjXYp5MbyDO78-AWMYL2_DYlwHoYQzrt3-DIfkxN0OQQpW0mI",
                             "https://www.youtube.com/watch?v=yoLFk4JK_RM")
 the_accountant = media.Movie("The Accountant",
                              "Christian Wolff (Ben Affleck) is a mathematics savant with more affinity for numbers than people. Using a small-town CPA office as a cover, he makes his living as a freelance accountant for dangerous criminal organizations. With a Treasury agent (J.K. Simmons) hot on his heels, Christian takes on a state-of-the-art robotics company as a legitimate client. As Wolff gets closer to the truth about a discrepancy that involves millions of dollars, the body count starts to rise.",
@@ -41,7 +41,7 @@ thirteen_hours = media.Movie("13 Hours",
                        "https://images-na.ssl-images-amazon.com/images/I/91zhWpXHVzL._SL1500_.jpg",
                        "https://www.youtube.com/watch?v=4CJBuUwd0Os")
 john_wick = media.Movie("John Wick",
-                        "Legendary assassin John Wick (Keanu Reeves) retired from his violent career after marrying the love of his life. Her sudden death leaves John in deep mourning. When sadistic mobster Iosef Tarasov (Alfie Allen) and his thugs steal John's prized car and kill the puppy that was a last gift from his wife, John unleashes the remorseless killing machine within and seeks vengeance. Meanwhile, Iosef's father (Michael Nyqvist) -- John's former colleague -- puts a huge bounty on John's head."
+                        "Legendary assassin John Wick (Keanu Reeves) retired from his violent career after marrying the love of his life. Her sudden death leaves John in deep mourning. When sadistic mobster Iosef Tarasov (Alfie Allen) and his thugs steal John's prized car and kill the puppy that was a last gift from his wife, John unleashes the remorseless killing machine within and seeks vengeance. Meanwhile, Iosef's father (Michael Nyqvist) -- John's former colleague -- puts a huge bounty on John's head.",
                         "http://is2.mzstatic.com/image/thumb/Video2/v4/3b/ea/a4/3beaa4a6-611c-cbc2-6718-fd2578abf363/source/1200x630bb.jpg",
                         "https://www.youtube.com/watch?v=2AUmvWm5ZDQ")
 
